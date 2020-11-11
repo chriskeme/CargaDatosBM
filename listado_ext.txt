@@ -1,0 +1,202 @@
+ext_sroan@mercadolibre.com;Sofia Roán
+ext_tbrusi@mercadolivre.com;thais brusi
+ext_mayarper@mercadolivre.com;mayara pereira
+ext_lumatozo@mercadolivre.com;luciana matozo
+ext_jupanell@mercadolivre.com;juliana panelli
+ext_amedrano@mercadolivre.com;anna medrano
+ext_alliu@mercadolibre.com;alissa liu
+ext_orabrego@mercadolibre.com;oriana abrego
+ext_nreinoso@mercadolivre.com;natalia reinoso
+ext_epeterso@mercadolibre.com;Emil Peterson Segatelli Costa
+ext_saluo@mercadolibre.com;sarey luo
+ext_archen@mercadolibre.com;ariel chen
+ext_cazhu@mercadolibre.com;caroline zhu
+ext_olou@mercadolibre.com;olina ou
+ext_kalin@mercadolibre.com;katy lin
+ext_peding@mercadolibre.com;peiwen ding
+ext_vihui@mercadolibre.com;virginia hui
+ext_shli@mercadolibre.com;sharon li
+ext_allin@mercadolibre.com;alice lin
+ext_ilchan@mercadolibre.com;ilen chan
+ext_syshen@mercadolibre.com;sylvia shen
+ext_zachen@mercadolibre.com;zac chen
+ext_jepeng@mercadolibre.com;jean peng
+ext_raferrei@mercadolivre.com;Raphael Oliveira Ferreira
+ext_alvalenz@mercadolibre.com;alejandro valenzuela
+ext_acoymart@mercadolibre.com.co;alejandra coy martinez
+ext_cecsilva@mercadolibre.com;cecilia silva
+ext_wduarter@mercadolibre.com.co;wilson duarte ramirez
+ext_cgaleazz@mercadolibre.com;Cecilia Galeazzi
+ext_alozadab@mercadolibre.com;Angie Lozada
+ext_sgasparo@mercadolibre.com;Sofía Gasparotti
+ext_tsoledad@mercadolibre.com;Thayrine dos Santos Soledade
+ext_hornelas@mercadolivre.com;Henrique Zandonade
+ext_rmontero@mercadolibre.com;Ramon Montero Almeida
+ext_gaporsze@mercadolibre.com;guillermo aporszegi
+ext_mlisboam@mercadolivre.com;Maria Vitoria Lisboa Marques
+ext_aamarinh@mercadolivre.com;ANDERSON DOS SANTOS NOVAES MARINHO
+ext_gsoares@mercadolivre.com;Giovanna Soares
+ext_nsouza@mercadolivre.com;Nathália Souza
+ext_carlfern@mercadolivre.com;Carlos Fernando Prudente
+ext_lgroisman@mercadolibre.com;Lean Groisman
+ext_gabcouto@mercadolivre.com;Gabriel Couto
+ext_sbernard@mercadolibre.com;Silvina Paola Bernardo
+ext_dmarquin@mercadolibre.com;Damelys Marquina Sanabria
+ext_vanperei@mercadolibre.com;Vanilda Pereira Dos Santos
+ext_jmoron@mercadolibre.com;Jorge Moron
+ext_lberno@mercadolibre.com;Ludineia Berno
+ext_rcaceres@mercadolibre.com;Ritha Daniela Cáceres
+ext_sgimenez@mercadolibre.com;Silvina Gimenez
+ext_magaray@mercadolibre.com;Maria Rosa Garay
+ext_smunoz@mercadolibre.com;santiago muñoz
+ext_cdeolive@mercadolivre.com;Caique Rodrigues
+ext_vfigueir@mercadolivre.com;Vitor Figueiredo da Rocha
+ext_garabaio@mercadolibre.com;Gabriel Rabaioli Durajski
+ext_lsiqueir@mercadolivre.com;Luan Siqueira de Souza
+ext_gliang@mercadolibre.com;gigi liang
+ext_sborghi@mercadolibre.com;sol borghi
+ext_bfelix@mercadolivre.com;BIANCA FELIX
+ext_rromero@mercadolibre.com;Ricardo Romero
+ext_jberardi@mercadolibre.com;josefina berardi
+ext_alicosta@mercadolibre.com;Aline Costa
+ext_fpretel@mercadolibre.com;Florencia Pretel
+ext_nquijada@mercadolibre.com;Nicolás Quijada Klesse
+ext_rbenis@mercadopago.com;Rogerio Benis
+ext_mitodemo@mercadolivre.com;MURILO ITO DE MORAIS LOPES
+ext_julianfe@mercadolivre.com;Juliana Castro
+ext_glacerda@mercadolivre.com;Gabriel Lacerda
+ext_daisilva@mercadolivre.com;DAIANE SILVA
+ext_abergant@mercadolivre.com;Ana Bergantini Burjaili
+ext_marcsant@mercadolibre.com;Marcos Santos
+ext_pruzic@mercadolibre.com;Pablo Ruzic
+ext_mwade@mercadolibre.com;Mora Wade
+ext_agiovane@mercadolibre.com;Ayelén Giovannetti
+ext_eborrego@mercadolibre.com;Ezequiel Borrego
+ext_bpiekar@mercadolivre.com;Bruno Piekarzewicz Paulino da Silva
+ext_mkaplan@mercadolibre.com;Mateo Kaplan
+ext_tajianta@mercadolibre.com;Tang JianTao
+ext_clau@mercadolibre.com;Cecilia Lau
+ext_fwu@mercadolibre.com;Frank Wu
+ext_lzhu@mercadolibre.com;Lulu Zhu
+ext_ttang@mercadolibre.com;Tania Tang
+ext_azhu@mercadolibre.com;Andy Zhu
+ext_midoming@mercadolibre.com;Micaela Dominguez Greco
+ext_agoncalv@mercadolibre.com;Andre Goncalves Andre
+ext_psalaman@mercadolibre.com;Paola Salamanca
+ext_kmaiero@mercadolivre.com;Karine Gino Maiero
+ext_garaujo@mercadolivre.com;Gabriela Cipriano
+ext_dmarques@mercadolivre.com;Denise Santos Marques
+ext_boliveir@mercadolivre.com;Barbara Oliveira
+ext_guilalme@mercadolibre.com;Guilherme Almeida
+ext_cezarsil@mercadolibre.com;Cezar Silva
+ext_ksilva@mercadolibre.com;Kauana Soares Silva
+ext_maquino@mercadolivre.com;MAYARA AQUINO
+ext_pmartins@mercadolivre.com;Pamela Martins
+ext_tdemello@mercadolivre.com;Thalita de Mello Lucas
+ext_lmazarao@mercadolibre.com;Leonardo Mazarão
+ext_rzanotti@mercadolibre.com;Rodrigo Zanotti
+ext_akathlee@mercadolivre.com;Anny Kathleen Almeida Silva
+ext_gbaranda@mercadolivre.com;Gabriela Barandão
+ext_ctonelli@mercadolibre.com;Candelaria Tonelli
+ext_cyorio@mercadolibre.com;Cristian Yorio
+ext_fmartino@mercadolibre.com;Florencia Martino
+ext_dilima@mercadolivre.com;Diego Aparecido Lima
+ext_amdossan@mercadolivre.com;Amanda dos Santos Pinto
+ext_cdelima@mercadolibre.com;Carolina Chaves de lima
+ext_gfachina@mercadolibre.com;Giuliana Fachinat
+ext_lfeliper@mercadolivre.com;Lilian Rocha
+ext_gfernnde@mercadolibre.com;Gonzalo Fernández
+ext_elobov@mercadolibre.com;Eugenia Lobov
+ext_ecorrea@mercadolibre.com;Emanuel Correa
+ext_bbaptist@mercadolivre.com;Bianca Di Baptista Madanelo
+ext_gsantosc@mercadolivre.com;GABRIELA SANTOS CÔRREA
+ext_tsanchez@mercadolivre.com;Thalita Sanchez
+ext_hmarques@mercadolibre.com;Hadassa Marques
+ext_ldejesus@mercadolivre.com;LARISSA SANTOS
+ext_rpea@mercadolibre.com;BTS
+ext_rodesous@mercadolivre.com;Robson de Sousa Silva
+ext_ipereira@mercadolibre.com;Izabela Pereira
+ext_cansouza@mercadolivre.com;Camila Franco De Andrade Souza
+ext_ksilvaso@mercadolivre.com;KAUANY SILVA SOARES
+ext_mlisboag@mercadolivre.com;Marcelo Lisboa Gomes
+ext_sstefany@mercadolivre.com;Sthefany Del Nero Rosa
+ext_lsoriano@mercadolivre.com;Luana Soriano de Oliveira
+ext_lvsilva@mercadolivre.com;Álvaro Reis
+ext_ggarcial@mercadolibre.com.mx;Guadalupe Garcia Luna
+ext_caraujo@mercadolivre.com;Catia Machado Araujo
+ext_emagalhe@mercadolivre.com;Evandro Magalhães dos Santos
+ext_ddesouza@mercadolibre.com;Daniele de Souza
+ext_eferrand@mercadolibre.com;Ezequiel Ferrando
+ext_gupederi@mercadolibre.com;Guido Pederiva
+ext_canotteb@mercadolibre.com;Candelaria Nottebohm
+ext_mpalau@mercadolibre.com;Mercedes Palau
+ext_ylemme@mercadolivre.com;Ynessa Favaretto Lemme
+ext_mcampo@mercadolibre.com;Maria Lidia Campo
+ext_iferrara@mercadolibre.com;Ida Ferrara
+ext_mgoicoch@mercadolibre.com;Micaela Goicoechea
+ext_vservidi@mercadolibre.com;Valeria Servidio
+ext_malvarez@mercadolibre.com.co;Mariana Álvarez Suescún
+ext_fbilbao@mercadolibre.com;Fermin Bilbao
+ext_ddemiche@mercadolibre.com;Diego Demichelis
+ext_andovie@mercadolibre.com.mx;Andrea Oviedo
+ext_smarques@mercadolivre.com;Sabrina Marques Santos
+ext_ccastagn@mercadolibre.com;Camila Castagna
+ext_gfelicio@mercadolivre.com;Gizelle Felicio
+ext_mcalvo@mercadolibre.com;Macarena Calvo
+ext_mespinoz@mercadolibre.com;Maria Constanza Espinoza Cerda
+ext_jobello@mercadolibre.com;Joaco Bello
+ext_aaslania@mercadolibre.com;Ana Aslanian
+ext_mbietti@mercadolibre.com;Mateo Bietti
+ext_mrego@mercadolibre.com;Mariano Rego
+ext_nalfano@mercadolibre.com;Nelida Alfano
+ext_aclaroha@mercadolibre.com;Agustina Claro Hanel
+ext_karocha@mercadolibre.com;Kelly Arocha
+ext_tjullier@mercadolibre.com;Tamara Jullier
+ext_aayala@mercadolibre.com;Alejandra Ayala
+ext_epontiro@mercadolibre.com;Estefania Pontiroli
+ext_aespaa@mercadolibre.com;Agustina España
+ext_carsanch@mercadolibre.com;Carolina Sanchez Tagle
+ext_flsantos@mercadolivre.com;Flavia Santos
+ext_tamorim@mercadolivre.com;Thatiane Amorim
+ext_jbrochad@mercadolibre.com;Juliana Brochado
+ext_moaparec@mercadolibre.com;Monique Leite
+ext_vquintil@mercadolibre.com;Vanessa Lima
+ext_vborges@mercadolibre.com;Vanessa Borges
+ext_galmeida@mercadolibre.com;Gislaine Almeida Costa
+ext_cbutler@mercadolibre.com;Carolina Butler
+ext_mdealess@mercadolibre.com;Macarena De Alessandre
+ext_fcollazo@mercadolibre.com;Florencia Collazo
+ext_avilieri@mercadolibre.com;Agustina Vilieri
+ext_anrojas@mercadolibre.com;Andrea Rojas
+ext_vbauer@mercadolibre.com;Victoria Bauer
+ext_ccairo@mercadolibre.com;Carla Cairo
+ext_adiaz@mercadolibre.com;Anyi Díaz Paris
+ext_cesquivel@mercadolibre.cl;Claudia Esquivel
+ext_aqpuch@mercadolibre.com;Andrea Alexandra Quintana Puch
+ext_lggarcia@mercadolivre.com;Lucas Garcia
+ext_vsiqueira@mercadolivre.com;Victoria Siqueira
+ext_amagnacco@mercadolibre.com;Adrián Axel Magnacco
+ext_yuribe@mercadolibre.com.mx;Yoge Uribe
+ext_dajanece@mercadolibre.com;Daniela Janecek Arantes
+ext_mpineiro@mercadolibre.com;Marcos Piñeiro Pearson
+ext_cesilva@mercadolibre.com;Cezar Silva
+ext_lnoite@mercadolibre.com;Leandro Noite
+ext_jecallag@mercadolibre.com;Jessica O' Callaghan
+ext_francinejm@mercadolivre.com;Francine Mejan
+ext_ulucente@mercadolivre.com;Uyara Lucente
+ext_shaparec@mercadolibre.com;Sheila Pires
+ext_wribeiro@mercadolivre.com;Woolley Ribeiro
+ext_alenzi@mercadolibre.com;Andiara Lenzi
+ext_ldobner@mercadolivre.com;Luiza Dobner
+ext_mdomngue@mercadolibre.com;Maria Laura Dominguez
+ext_fgomezgu@mercadolibre.com;Federico Manuel Gomez Guisoli
+ext_vcardoso@mercadolivre.com;Victor Cardoso
+ext_community@mercadolibre.com;Ana y Pedro Community Managers Workplace MELI
+ext_emonteci@mercadolibre.com;Eugenia Montecinos
+ext_mgiordan@mercadolibre.com;Maria Giordano
+ext_masasaki@mercadolibre.com;Marilia Sasaki Sosa
+ext_dcampbel@mercadolibre.com;Delfi Campbell
+ext_aprezpic@mercadolibre.com;Agostina Perez Picone
+ext_svanderl@mercadolivre.com;Sara Viturino Vanderlei
+ext_esouza@mercadolivre.com;Evelyn Souza
+ext_amaron@mercadolivre.com;Adriana Maron
