@@ -43,8 +43,6 @@ def GetContactId(p_email):
         return ContactId['PLATFORM_CONTACT_ID']
     except:
         return ''
-
-
 def actUser(email, direccion):
 
     contactId = GetContactId(email)
@@ -65,7 +63,6 @@ def actUser(email, direccion):
         return contactId+' '+resultado
     except:
         return contactId+' Error'
-
 def recorroEmails():
     try:
       df = pd.read_csv(path, sep=';')

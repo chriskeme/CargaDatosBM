@@ -9,7 +9,7 @@ import os
 import tkinter.scrolledtext as tkscrolled
 
 #path = "carga domicilios.csv"
-path = "Base direccionesCSV - copia.csv"
+path = "Base direccionesCSV.csv"
 #path = "prueba.csv"
 logTxt = open("log.txt", "w")
 logTxt.write("")
